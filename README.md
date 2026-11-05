@@ -1,42 +1,35 @@
-# Prácticas de Python
+# 🐍 Prácticas de Python
 
-Repositorio donde recopilo diferentes ejercicios y programas desarrollados durante mi aprendizaje de Python. El objetivo es mejorar mis habilidades de programación mediante proyectos prácticos y progresivos.
+¡Bienvenido a mi repositorio!
+
+Aquí recopilo los programas que voy desarrollando mientras aprendo Python. Cada ejercicio me permite practicar nuevos conceptos y mejorar mis habilidades de programación.
 
 ## 📂 Proyectos
 
-### 1. Gestor de notas
-Programa que permite introducir las calificaciones de un alumno, calcular su media y comprobar si ha aprobado.
+| Proyecto | Descripción |
+|---|---|
+| [Gestor de notas](Gestor%20de%20notas.py) | Calcula la media de un alumno y comprueba si ha aprobado. |
+| [Gestor de facturas](Gestor%20de%20facturas.py) | Calcula importes y aplica descuentos. |
+| [Generador de facturas](Generador%20de%20facturas%20con%20varios%20productos.py) | Genera facturas con un número variable de productos. |
+| [Compra de entradas de cine](Gestor%20de%20compra%20de%20entradas%20de%20cine.py) | Calcula el coste de entradas para distintas películas. |
+| [Sistema de gestión de usuarios](Sistema%20de%20gesti%C3%B3n%20de%20usuarios.py) | Permite añadir, buscar y mostrar usuarios. |
 
-### 2. Gestor de facturas
-Programa que calcula el importe de dos productos y aplica un descuento del 10 % cuando la compra alcanza los 100 €.
+## 🛠️ Tecnologías y conocimientos
 
-### 3. Generador de facturas con varios productos
-Programa que permite introducir tantos productos como se desee, calcular sus importes individuales y generar una factura.
+- Python 3
+- Variables y tipos de datos
+- Condicionales y bucles
+- Funciones
+- Listas y diccionarios
+- Validación de datos
+- Manejo de excepciones
 
-### 4. Gestor de compra de entradas de cine
-Programa que permite seleccionar varias películas, introducir el precio y el número de entradas y calcular el coste total.
+## ▶️ Cómo ejecutar los programas
 
-### 5. Sistema de gestión de usuarios
-Aplicación interactiva que permite añadir, buscar y mostrar usuarios utilizando diccionarios.
-
-## 🛠️ Conocimientos de Python
-
-Durante el desarrollo de estos programas he trabajado con:
-
-- Variables y tipos de datos.
-- Entrada y salida de información.
-- Condicionales (`if`, `elif`, `else`).
-- Bucles (`for` y `while`).
-- Funciones (`def` y `return`).
-- Listas y diccionarios.
-- Validación de datos.
-- Manejo de excepciones (`try` y `except`).
-- Operaciones matemáticas y acumuladores.
+1. Descarga el repositorio.
+2. Abre el archivo que quieras ejecutar con Python.
+3. Ejecuta el programa desde PyCharm o desde la terminal.
 
 ## 🎯 Objetivo
 
-Seguir desarrollando mis conocimientos de Python mediante ejercicios prácticos, incorporando progresivamente nuevos conceptos y mejorando la calidad de mi código.
-
----
-
-**Lenguaje:** Python 🐍
+Continuar aprendiendo Python mediante ejercicios prácticos y proyectos progresivamente más completos.
